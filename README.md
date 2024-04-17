@@ -112,9 +112,11 @@ np.mean(predict(res.x,x)==y)
 
 ## Output:
 <b>Array Value of x </b>
+
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/632a7fd7-620e-4b4d-9a67-b1f3fbff0e2a)
 
 <b>Array Value of y  </b>
+
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/fa232437-9898-4595-98c1-657f59c817c4)
 
 Exam 1 - score graph
