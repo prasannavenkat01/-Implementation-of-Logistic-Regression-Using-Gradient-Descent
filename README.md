@@ -119,28 +119,36 @@ np.mean(predict(res.x,x)==y)
 
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/fa232437-9898-4595-98c1-657f59c817c4)
 
-Exam 1 - score graph
+<b>Exam 1 - score graph</b>
+
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/5efc49eb-c32e-4b76-a3df-3c602f2fd609)
 
-Sigmoid function graph
+<b>Sigmoid function graph</b>
+
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/27ef90e6-a4da-4254-b140-eb16bee3a08c)
 
-X_train_grad value
+<b>X_train_grad value</b>
+
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/8deae167-4a78-4d01-aba0-d34d876884c5)
 
-Y_train_grad value
+<b>Y_train_grad value</b>
+
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/d37576e3-6d64-46db-a430-dc4c0528c968)
 
-Print res.x
+<b>Print res.x</b>
+
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/76125bc2-6304-4352-92df-66a458496f0d)
 
-Decision boundary - graph for exam score
+<b>Decision boundary - graph for exam score</b>
+
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/bd758aae-2e46-460c-9a25-33cbdc736eec)
 
-Proability value
+<b>Proability value</b>
+
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/698d6358-0ad4-4919-a447-d4b561805d37)
 
-Prediction value of mean
+<b>Prediction value of mean</b>
+
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/f75108e4-53c1-4e1f-8f1d-6541261e5b01)
 
 ## Result:
