@@ -111,11 +111,11 @@ np.mean(predict(res.x,x)==y)
 ```
 
 ## Output:
-<b>Array Value of x : </b>
+<b>Array Value of x </b>
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/632a7fd7-620e-4b4d-9a67-b1f3fbff0e2a)
 
-<b>Array Value of y : </b>
-![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/00a1f8e8-dc3f-4d35-b90d-e4efb714f458
+<b>Array Value of y  </b>
+![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/fa232437-9898-4595-98c1-657f59c817c4)
 
 Exam 1 - score graph
 ![image](https://github.com/prasannavenkat01/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150702500/5efc49eb-c32e-4b76-a3df-3c602f2fd609)
